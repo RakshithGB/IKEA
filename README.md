@@ -20,7 +20,7 @@ A web scrapper written in `Selenium` using a chrome driver to scrape through IKE
 3. Please paste the correct Chrome Driver version in the correct OS folder.
 
 **Example:**
-If windows the final location: `Source/Driver/Windows/Chromedriver.exe`
+If windows the final location: `IKEA-master/Driver/Windows/Chromedriver.exe`
 
 ## Scrapping
 
